@@ -3,13 +3,13 @@
 An end-to-end NLP project on **80,000 Google Play reviews** (40,000 per app, Jul–Oct 2026):
 scraping → SQL → sentiment models → complaint clustering → interactive dashboard.
 
-**Live dashboard:** {{your Streamlit link}}
+**Live dashboard:** {{(https://review-insights-fyob6x9wrejmam9fmncecg.streamlit.app/)}}
 
 ![Dashboard](docs/dashboard.png)
 
 ## Why I built this
 
-{{2–3 lines in your own words: why this problem, what you wanted to learn}}
+This started after an online order which had a refund trouble. I've always wanted to know how Zomato and Swiggy really compare from the user's side: what people complain about, and which app handles them better. I also wanted to build a live dashboard, so I blended both goals into one project.
 
 ## Key findings
 
