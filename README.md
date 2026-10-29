@@ -73,7 +73,7 @@ The first clustering produced two clusters that were really just *"reviews that 
 ## Run it yourself
 
 ```bash
-git clone {{your repo URL}}
+git clone {{https://github.com/Gvskarthikeya12/review-insights.git}}
 cd review-insights
 python -m venv venv && venv\Scripts\activate      # Mac/Linux: source venv/bin/activate
 pip install -r requirements.txt            # enough to run the dashboard
@@ -105,4 +105,4 @@ data/reviews.db        all data and model outputs
 ```
 
 ---
-Built by Karthikeya · {{LinkedIn URL}}
+Built by Karthikeya · {{(https://www.linkedin.com/in/gottam-v-s-karthikeya-prasanna-kumar-88b6a224a/)}}
