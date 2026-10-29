@@ -1,0 +1,6 @@
+-r requirements.txt
+google-play-scraper
+vaderSentiment
+transformers
+torch
+sentence-transformers

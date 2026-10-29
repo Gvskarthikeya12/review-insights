@@ -1,0 +1,12 @@
+cluster,theme_name,description
+0,Wrong or spoiled food,"Stale, damaged or wrong dishes; support rejects photo proof"
+1,General bad experience,"Mixed complaints about food, support and money together"
+2,Cancellation fees,"Charged for cancelling, no cancel option, refund after cancel"
+3,Rider delays & stuck orders,"Delivery partner not moving, order stuck for hours"
+4,App bugs & AI chatbot,"Login and checkout errors, can't reach a human past the bot"
+5,High fees & hidden charges,"Delivery fees, GST, platform fee, coupons that don't apply"
+6,Switching to competitor,"'Better use the other app' - explicit churn threats"
+7,Unhelpful customer care,"Support closes chats, no resolution, no human contact"
+8,Late deliveries,"ETA keeps extending, missed promised delivery times"
+9,Missing items & partial refunds,"Items missing, only partial refund, refund disputes"
+10,Hinglish reviews,"Complaints written in Hindi/Hinglish, mixed topics"
